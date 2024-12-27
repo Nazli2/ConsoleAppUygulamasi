@@ -1,0 +1,9 @@
+C:\Code\ConsoleDll\DllApp\bin\Debug\DllApp.dll
+C:\Code\ConsoleDll\DllApp\bin\Debug\DllApp.pdb
+C:\Code\ConsoleDll\DllApp\obj\Debug\DllApp.csproj.AssemblyReference.cache
+C:\Code\ConsoleDll\DllApp\obj\Debug\DllApp.csproj.CoreCompileInputs.cache
+C:\Code\ConsoleDll\DllApp\obj\Debug\DllApp.dll
+C:\Code\ConsoleDll\DllApp\obj\Debug\DllApp.pdb
+C:\Code\ConsoleDll\DllApp\bin\Debug\Dapper.dll
+C:\Code\ConsoleDll\DllApp\bin\Debug\Dapper.xml
+C:\Code\ConsoleDll\DllApp\obj\Debug\DllApp.csproj.Up2Date
